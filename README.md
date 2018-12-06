@@ -2,7 +2,7 @@
 
 The homework consists in two parts: scapping a website and cluster its informations in different ways and use hash functions to find duplicates in a big set of passwords. 
 
-![](immobiliare_wordcloud.jpg)
+![](immobiliare.jpg)
 
 #### Scapping a web site
 
