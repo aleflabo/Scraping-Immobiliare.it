@@ -13,7 +13,7 @@ This data will be the corpus for our analysis.
 ## Script descriptions
 
 1. __`Homework_4.ipynb`__: 
-	> This script provides the code of our analisys. It is possible that some plots are not clearly viewed, so to visualize them correctly the notebook is also shown [here](https://nbviewer.jupyter.org/github/aleflabo/ADM-HW_10/blob/master/Homework_3.ipynb).
+	> This script provides the code of our analisys. It is possible that some plots are not clearly viewed, so to visualize them correctly the notebook is also shown [here](http://nbviewer.jupyter.org/github/aleflabo/ADM-HW4_20/blob/master/Homework_4.ipynb).
 	
 2. __`data.csv`__: 
 	> This file contains all the informations of the annoucements taken from Immobiliare.it.
