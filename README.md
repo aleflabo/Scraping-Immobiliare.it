@@ -14,10 +14,18 @@ This data will be the corpus for our analysis.
 
 1. __`Homework_4.ipynb`__: 
 	> This script provides the code of our analisys. It is possible that some plots are not clearly viewed, so to visualize them correctly the notebook is also shown [here](https://nbviewer.jupyter.org/github/aleflabo/ADM-HW_10/blob/master/Homework_3.ipynb).
-2. __`functions_def.py`__: 
-	> This file contains all the functions and classes used during our work. 
-3. __`data.csv`__: 
+	
+2. __`data.csv`__: 
 	> This file contains all the informations of the annoucements taken from Immobiliare.it.
-4. __`KMeans_map_reduce.py`__: 
-	> This file contains the Class of the KMeans algorithm implemented with map-reduce.
+	
+3. Files containing all the functions of the different parts of the homework:
+	1. __`first_part_functions.py`__: 
+		> This file contains all the functions used during the part 1 of the HW.
+	2. __`scraping.py`__: 
+		> This file contains all the functions used for the scaping part.
+	3. __`Hash_functions.py`__: 
+		> This file contains all the functions used in the 2nd part of the HW.
+	
+4. __`KMeans.py`__ and __`KMeans_map_reduce.py`__: 
+	> These files contain the Classes of the KMeans algorithm implemented with and without map-reduce.
   
