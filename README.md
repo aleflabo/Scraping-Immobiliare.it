@@ -1,12 +1,11 @@
-# GROUP 20 - HOMEWORK 4
-
-The homework consists in two parts: scapping a website and cluster its informations in different ways and use hash functions to find duplicates in a big set of passwords. 
+# Scraping Immobiliare.it site and Hash Functions
+The project consists in two parts: scaping a website and cluster its informations in different ways and use hash functions to find duplicates in a big set of passwords. 
 
 ![](immobiliare.jpg)
 
-#### Scapping a web site
+#### Scaping a web site
 
-The scrapping part of the homework was based on this [link](https://www.immobiliare.it/vendita-case/roma/?criterio=rilevanza&pag=1) in the Immobiliare.it site.
+The scraping part of the project was based on this [link](https://www.immobiliare.it/vendita-case/roma/?criterio=rilevanza&pag=1) in the Immobiliare.it site.
 
 This data will be the corpus for our analysis.
 
